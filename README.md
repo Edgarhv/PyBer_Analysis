@@ -10,6 +10,10 @@ The purpose of this Module is to create a summary DataFrame of the ride-sharing 
 
 ### Results
 
- ![img](PyBer summary DataFrame.png)
+ ![img](https://github.com/Edgarhv/PyBer_Analysis/blob/a5816a0e99dfa0fd23323a4291f060dad2554ba9/PyBer%20summary%20DataFrame.png)
+ 
+ • Urban cities have the highest ridership demand and they have more drivers than suburban cities.
+ • Rural cities have the highest average fare per ride and driver.
+ •	Suburban cities have more drivers than rural with almost double revenue.
 
 ### Summary
