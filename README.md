@@ -14,7 +14,7 @@ The table above shows a relationship in which fare revenue is higher by city typ
 ![img](https://github.com/Edgarhv/PyBer_Analysis/blob/581fb033183bb76ee697dcaffc6ed46b307946ce/Fig8.png)
 The graph above shows how city types (Rural, Urban, and Suburban) are separated. One assumption that we can make is because Urban cities have the highest ridership demand. That is why The Urban cities far are the highest and consistent between January till April. On the other hand, The Rural cities fare is the lowest of the other two city types. Also, all the city types show a similar trend in the graph, and the lines never intersected.
 #### Summary:
-
+![img](https://github.com/Edgarhv/PyBer_Analysis/blob/2e6e09393c2957c03bfb13b33481b2ceed323ab0/Fig6.png)
 ![img](https://github.com/Edgarhv/PyBer_Analysis/blob/1368406acb3c54418e31285288699401ce278b13/Fig7.png)
-
-Data for rural cities shows that the average fare per ride and average fare per driver is much higher than in Suburban and Urban cities.
+###### •Suburban cities contain the most city drivers and riders and are consistent in price and trend. 
+###### •Data for rural cities shows that the average fare per ride and average fare per driver is much higher than in Suburban and Urban cities.
