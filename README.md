@@ -12,6 +12,5 @@ The purpose of this Module is to create a summary DataFrame of the ride-sharing 
 The table above shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
 
 ![img](https://github.com/Edgarhv/PyBer_Analysis/blob/581fb033183bb76ee697dcaffc6ed46b307946ce/Fig8.png)
-
-
+The graph above shows how city types (Rural, Urban, and Suburban) are separated. One assumption that we can make is because Urban cities have the highest ridership demand. That is why The Urban cities far are the highest and consistent between January till April. On the other hand, The Rural cities fare is the lowest of the other two city types. Also, all the city types show a similar trend in the graph, and the lines never intersected.
 #### Summary:
